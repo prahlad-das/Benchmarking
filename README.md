@@ -51,4 +51,4 @@ export default function () {
 ![K6](k6.png)
 
 ## JMeter
-index.html
+![JMeter](JMeter.png)
